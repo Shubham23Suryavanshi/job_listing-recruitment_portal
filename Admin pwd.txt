@@ -1,0 +1,3 @@
+login details for admin
+pwd="Admin"
+username==="admin@gmail.com"
